@@ -2427,3 +2427,7 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Henry Chase](https://github.com/henrychase411)
+- Place: Accra, Ghana
+- Bio: Web developer PHP and Python
+- Github: [Henry Chase](https://github.com/henrychase411)
